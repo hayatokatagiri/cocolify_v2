@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center mb-4 md:mb-0">
             <Heart className="h-5 w-5 text-teal-400 mr-2" />
             <span className="text-lg font-semibold">Cocolify</span>
-            <span className="ml-2 text-sm text-gray-400">ココライフィ</span>
+            <span className="ml-2 text-sm text-gray-400"></span>
           </div>
           
           <div className="text-sm text-gray-400">
