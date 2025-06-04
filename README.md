@@ -35,7 +35,7 @@ Project Cocolify - 反貧困デジタル開発プロジェクト
 #### 2.1.2 地域情報入力
 
 - 居住地域の選択（大阪市内の区単位）
-- 郵便番号による地域特定機能
+- 郵便番号による地域特定機能（なくてもいいかも）
 
 #### 2.1.3 相談内容カテゴリー判定
 
@@ -104,8 +104,8 @@ Project Cocolify - 反貧困デジタル開発プロジェクト
 
 Javascript か python で悩み中（このプロトタイプは bolt.new で試作）
 
-- フレームワーク（フロントエンド）: Reacts
-- フレームワーク: Streamlit
+- フレームワーク（フロントエンド）: React/Typescript
+- フレームワーク: （Python の場合）Streamlit
 - 言語: Python 3.8+
 - AI: OpenAI GPT-4 API
 - データベース: SQLite（開発・テスト）/ PostgreSQL（本番）
