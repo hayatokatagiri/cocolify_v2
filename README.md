@@ -1,13 +1,12 @@
-# Cocolify 要件定義書
+# プロジェクト Cocolify
 
 ## 1. プロジェクト概要
 
 ### 1.1 プロジェクト名
 
-Project Cocolify - 反貧困デジタル開発プロジェクト
+Cocolify - 反貧困デジタル開発プロジェクト
 
 - コンセプト：貧困・地域研究の社会実装。
-
 - Web App プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
 - 開発記録は/devlogs に保管
 
