@@ -1,11 +1,12 @@
-# Cocolify - 反貧困支援チャットボット 要件定義書
+# Cocolify 要件定義書
 
 ## 1. プロジェクト概要
 
 ### 1.1 プロジェクト名
 
-Cocolify
-プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
+Cocolify - 反貧困デジタル開発プロジェクト
+
+- プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
 
 ### 1.2 目的
 
