@@ -6,7 +6,7 @@
 
 Cocolify - 反貧困デジタル開発プロジェクト
 
-- プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
+- Web App プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
 
 ### 1.2 目的
 

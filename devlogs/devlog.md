@@ -4,6 +4,7 @@
 
 - Cocolify の初期タイプ（リモートリポジトリ名：cocolify-app）から v2 に移行。
 - Bolt.new でプロトタイプを生成し、bolt.new の機能でデプロイ。
+- 旧バージョンの Cocolify(https://cocolify.web.app/)には最新版としてこのv2の案内を追加。
 
 ### 検討事項
 
