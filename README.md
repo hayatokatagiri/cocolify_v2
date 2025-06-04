@@ -4,7 +4,7 @@
 
 ### 1.1 プロジェクト名
 
-Cocolify - 反貧困・孤立のためのプロジェクト
+Cocolify - 地域における反貧困・孤立アプリ開発プロジェクト
 
 - コンセプト：貧困・地域・孤立研究の社会実装。
 - Web App プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
