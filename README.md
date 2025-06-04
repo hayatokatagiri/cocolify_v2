@@ -114,7 +114,7 @@ Javascript か python かを検討中（このプロトタイプは bolt.new で
 - フレームワーク（フロントエンド）: React/Typescript
 - フレームワーク: （Python の場合）Streamlit
 - 言語: Python 3.8+
-- AI: OpenAI GPT-4 API
+- AI:ChatGPT などの生成 AI の API
 - データベース: SQLite（開発・テスト）/ PostgreSQL（本番）
 - ホスティング: Streamlit Cloud / Supabase
 
@@ -153,6 +153,7 @@ Javascript か python かを検討中（このプロトタイプは bolt.new で
 
 ### Phase 1: 基盤開発
 
+- 貧困・地域研究の先行研究レビュー、実装に落とし込むアイデアの彫琢
 - 基本的な Streamlit アプリケーション構築
 - データベース設計・構築
 - 支援機関データの収集・整理
@@ -169,11 +170,12 @@ Javascript か python かを検討中（このプロトタイプは bolt.new で
 - 結果表示の改善
 - 管理機能の実装
 
-### Phase 4: テスト・改善（2 週間）
+### Phase 4: テスト・改善・現場からのフィードバック
 
 - 動作テスト
 - ユーザビリティテスト（研究者、現場からのフィードバック）
 - バグ修正・改善
+- → Phase 1 へ
 
 ## 7. 制約事項
 
