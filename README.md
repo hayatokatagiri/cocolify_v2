@@ -1,4 +1,4 @@
-# プロジェクト Cocolify
+# Project Cocolify
 
 ## 1. プロジェクト概要
 
