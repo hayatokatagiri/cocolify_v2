@@ -1,5 +1,5 @@
-import React from 'react';
-import { Heart } from 'lucide-react';
+import React from "react";
+import { Heart } from "lucide-react";
 
 const Footer: React.FC = () => {
   const year = new Date().getFullYear();
@@ -13,10 +13,12 @@ const Footer: React.FC = () => {
             <span className="text-lg font-semibold">Cocolify</span>
             <span className="ml-2 text-sm text-gray-400"></span>
           </div>
-          
+
           <div className="text-sm text-gray-400">
             <p>© {year} Cocolify - 大阪市の反貧困支援チャットボット</p>
-            <p className="mt-1">※このサービスは情報提供のみを目的としています。緊急時は各専門機関に直接ご連絡ください。</p>
+            <p className="mt-1">
+              ※このサービスは情報提供のみを目的としています。緊急時は各専門機関に直接ご連絡ください。
+            </p>
           </div>
         </div>
       </div>
