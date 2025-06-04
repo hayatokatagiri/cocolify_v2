@@ -108,7 +108,7 @@ Cocolify - 反貧困・孤立のためのプロジェクト
 
 ### 4.1 開発環境
 
-Javascript か python かを検討中（このプロトタイプは bolt.new で試作）
+Javascript か python かを検討中（このプロトタイプは bolt.new で試作したため、フロントエンドは React）
 
 - フレームワーク（フロントエンド）: React/Typescript
 - フレームワーク: （Python の場合）Streamlit
