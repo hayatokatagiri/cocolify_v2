@@ -5,6 +5,7 @@
 ### 1.1 プロジェクト名
 
 Cocolify
+プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
 
 ### 1.2 目的
 
