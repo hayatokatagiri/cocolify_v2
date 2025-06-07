@@ -7,7 +7,6 @@
 - 地域における反貧困・孤立アプリ開発プロジェクト
 - コンセプト：貧困・地域・孤立研究の社会実装
 - Web App プロトタイプ：https://magenta-donut-ed6ee4.netlify.app/
-- 開発記録は/devlogs に保管
 
 ### 1.2 目的
 
